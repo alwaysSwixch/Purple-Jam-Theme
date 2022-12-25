@@ -1,0 +1,24 @@
+/**
+* @name Purple Jam
+* @version 1.1
+* @description Purple jam, Purple jam, Purple jam!!!
+* @author swixch#2023
+* @invite PZdnCVD
+* @Source https://github.com/codedotspectra/themes
+* @website https://betterdiscord.app/theme/Neutron
+*/
+@import url("https://codedotspectra.github.io/themes/themes-cores/neutron8.css");
+:root {
+--themeColor1: #A552DCFF;
+--themeColor2: #E19BE5FF;
+--customFont: 'Open Sans';
+--homeImage: url('https://cdn.discordapp.com/attachments/1042925566287958058/1056609088735297576/a_84e9099925d6c1c0dce2002e8ac4e9b9.png');
+--homeImageSize: cover;
+--backgroundColor: #311036FF;
+--backgroundImage: url('https://i.imgur.com/riTABRB.gif');
+--backgroundPosition: top;
+--backgroundSize: cover;
+--backgroundRepeat: repeat;
+--backgroundBlur: 39px;
+--backgroundOpacity: 0.5;
+}
